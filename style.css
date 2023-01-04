@@ -1,0 +1,45 @@
+.goat{
+    border:3px solid red
+    
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.goa{
+    width: 300px;
+    height: 350px;
+    padding-left: 20px;
+    margin: 20px 0px;
+
+}
+audio{
+    margin-bottom: 150px;
+}
+.horse{
+    
+    border:3px solid black;
+    margin-top: 10px;
+    
+}
+.hor{
+    width:300px;
+    height: 350px;
+    padding-left: 20px;
+    margin: 20px 0px;
+
+
+}
+.lion{
+    border:3px solid blue;
+    margin-top: 10px;
+}
+.lio{
+    width: 300px;
+    height: 300px;
+    padding-left: 10px;
+    margin: 10px 0px;
+
+}
